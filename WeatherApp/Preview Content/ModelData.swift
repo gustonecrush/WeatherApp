@@ -4,6 +4,8 @@
 //
 //  Created by A Farhan Agustiansyah on 16/07/22.
 
+//
+
 import Foundation
 
 var previewWeather: ResponseBody = load("weatherData.json")
